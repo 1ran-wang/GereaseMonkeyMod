@@ -54,7 +54,7 @@ function adblock4limbo(x, csp) {
     if (csp == 'nocsp') {
         console.log('创建不带CSP属性按钮...')
         x4Home.setAttribute("class", "cms");
-        let icon_url = 'https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adguard/uploads/imgs/Adblock4limbo.svg'
+        let icon_url = 'https://raw.githubusercontent.com/1ran-wang/GereaseMonkeyMod/main/Adblock/icons8-dota-2-96.svg'
         var nocsp =
             'padding:0px;transition-duration:666ms;transition-property:height;' + 
             'z-index:114154;bottom:15%;right:0.5%;position:fixed;border:transparent;' + 
