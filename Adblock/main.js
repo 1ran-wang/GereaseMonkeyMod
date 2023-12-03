@@ -895,7 +895,7 @@ function daohang_build() { // 如果导航按钮不存在，则引入外部脚�
                 console.log('清理循环 // daohang')
             }
         }, 500);
-        console.log(daohang)
+        console.log(document.querySelector("button#x4Home"))
     }
 }
 
